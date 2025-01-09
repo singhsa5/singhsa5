@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Packaging Research & Development Engineer with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Packaging Research & Development Engineer at Intel with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Github, C++, ML
 - 🔭 Working on: TCB & Stack modeling
